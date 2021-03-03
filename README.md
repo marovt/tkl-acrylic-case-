@@ -1,8 +1,9 @@
-# tkl-acrylic-case-(code geass inspired)
-a case, may or may not work
+# Spects
+a 3mm acrylic layered case 
 uses m2 screws and standoffs
 supported pcbs: Hineybush H87a , H87c , KBD8X MKII PCB 
 3mm acrylic
-USE THE FILES AT YOUR OWN RISK
 # license 
 licensed under the [lglp-3.0](LICENSE)
+# disclaimer
+USE THIS FILES AT YOUR OWN RISK,not an official code geass product
