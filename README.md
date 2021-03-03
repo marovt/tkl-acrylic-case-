@@ -1,5 +1,5 @@
 # Spects
-a 3mm acrylic layered case 
+a stacked 3mm acrylic case 
 uses m2 screws and standoffs
 supported pcbs: Hineybush H87a , H87c , KBD8X MKII PCB 
 3mm acrylic
