@@ -6,3 +6,7 @@ supported pcbs: Hineybush H87a , H87c , KBD8X MKII PCB
 licensed under the [lglp-3.0](LICENSE)
 # disclaimer
 USE THIS FILES AT YOUR OWN RISK,not an official code geass product
+# Renders
+![](renders/CASE_geass_2021-Mar-05_09-40-49AM-000_CustomizedView6568153459_png.png)
+![](renders/CASE_geass_2021-Mar-05_09-41-53AM-000_CustomizedView13317222809_png.png)
+![](renders/CASE_geass_2021-Mar-05_09-42-16AM-000_CustomizedView20238220096_png.png)
