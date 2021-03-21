@@ -9,4 +9,4 @@ for Hineybush H87a , H87c , KBD8X MKII PCB and some other tkl pcbs
 # license 
 licensed under the [gpl-3.0](LICENSE)
 # disclaimer
-USE THIS FILES AT YOUR OWN RISK,not an official code geass product
+USE THIS FILES AT YOUR OWN RISK
