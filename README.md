@@ -1,4 +1,4 @@
-# not ready 
+# kinda ready 
 # whats this ?
 a stacked 3mm acrylic case, 
 uses m2 screws and standoffs,
