@@ -10,14 +10,3 @@ licensed under the [gpl-3.0](LICENSE)
 # disclaimer
 USE THIS FILES AT YOUR OWN RISK
 # layer order
-top 
-
-top2
-
-top3
-
-plate 
-
-2 layers that are in 4 pieces 
-
-bottom 
