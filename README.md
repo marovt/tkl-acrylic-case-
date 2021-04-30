@@ -10,3 +10,12 @@ licensed under the [gpl-3.0](LICENSE)
 # disclaimer
 USE THIS FILES AT YOUR OWN RISK
 # layer order
+| order | preview |
+| --- | --- |
+| top1 | ![](pre/top1.png)|
+| top2 | ![](pre/top2.png)|
+| top3 | ![](pre/top3.png)|
+| plate| ![](pre/plate1.png)|
+| support| ![](pre/plate2.png)|
+| spacers x2| ![](pre/spacer.png)|
+| bottom | ![](pre/b.png)|
