@@ -12,10 +12,10 @@ USE THIS FILES AT YOUR OWN RISK
 # layer order
 | order | preview |
 | --- | --- |
-| top1 | ![](pre/top1.png)|
-| top2 | ![](pre/top2.png)|
-| top3 | ![](pre/top3.png)|
-| plate| ![](pre/plate1.png)|
-| support| ![](pre/plate2.png)|
-| spacers x2| ![](pre/spacer.png)|
-| bottom | ![](pre/b.png)|
+| top1 3 mm| ![](pre/top1.png)|
+| top2 3mm | ![](pre/top2.png)|
+| top3 3mm | ![](pre/top3.png)|
+| plate 1.5 mm| ![](pre/plate1.png)|
+| support 3mm| ![](pre/plate2.png)|
+| spacers x2 3mm| ![](pre/spacer.png)|
+| bottom 3mm| ![](pre/b.png)|
