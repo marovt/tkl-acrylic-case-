@@ -6,6 +6,7 @@ for  H87a , H87c , KBD8X MKII PCBs and some other tkl pcbs
 # Renders
 need to update this :)
 ![](pre/clear.png)
+![](pre/pinku.png)
 ![](pre/kindablue.png)
 # license 
 licensed under the [gpl-3.0](LICENSE)
